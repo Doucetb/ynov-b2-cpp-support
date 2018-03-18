@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/darde/CLionProjects/Blackjack/main.cpp
+algorithm
+-
+random
+-
+functional
+-
+iostream
+-
+ctime
+-
+
